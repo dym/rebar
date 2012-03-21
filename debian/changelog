@@ -1,3 +1,9 @@
+rebar (20120321-1) unstable; urgency=low
+
+  * Changed build format
+
+ -- Dmitriy Budashny <dmitriy.budashny@gmail.com>  Wed, 21 Mar 2012 11:53:36 +0200
+
 rebar (20120110-1) unstable; urgency=low
 
   * Initial release
